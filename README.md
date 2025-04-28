@@ -28,3 +28,5 @@ Untuk menjalankan aplikasi dalam mode production setelah di build. Diharapkan me
 npm install -g http-server
 http-server dist
 ```
+
+Setelah dijalankan di development atau production, bisa diakses di [http://localhost:8080](http://localhost:8080)
